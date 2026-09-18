@@ -108,6 +108,25 @@ body {
 .materi-link:nth-child(10) {
   --btn: #7b4c92;
 }
+.materi-link:nth-child(11) {
+  --btn: #7651ad;
+}
+.materi-link:nth-child(12) {
+  --btn: #d47b2c;
+}
+.materi-link:nth-child(13) {
+  --btn: #bd4c45;
+}
+.materi-link:nth-child(14) {
+  --btn: #9a6a20;
+}
+.materi-link:nth-child(15) {
+  --btn: #2c7b59;
+}
+.materi-link:nth-child(16) {
+  --btn: #4267a8;
+}
+
 .menu-number {
   flex: 0 0 29px;
   height: 29px;
