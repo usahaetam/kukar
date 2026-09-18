@@ -11,8 +11,8 @@ document.addEventListener("DOMContentLoaded", () => {
     side = document.getElementById("sidebar");
   function set(i) {
     links.forEach((x, j) => x.classList.toggle("active", i === j));
-    counter.textContent = `Materi ${i + 1} dari 14`;
-    bar.style.width = `${(i + 1) * 14}%`;
+    counter.textContent = `Materi ${i + 1} dari 16`;
+    bar.style.width = `${(i + 1) * 16}%`;
   }
   links.forEach(
     (x) =>
